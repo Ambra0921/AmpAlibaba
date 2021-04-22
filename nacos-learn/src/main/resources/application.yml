@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: nacos-learn
+
+  cloud:
+    nacos:
+      server-addr: 192.168.56.1:8848
+      username: nacos
+      password: nacos

@@ -1,0 +1,13 @@
+package com.caizy.nacoslearn;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NacosLearnApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(NacosLearnApplication.class, args);
+    }
+
+}
